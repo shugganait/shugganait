@@ -103,7 +103,8 @@ I am a motivated and goal-oriented **Software Engineering student** with a passi
 
 ## 📊 Stats
 
-![Daniyar's WakaTime Stats](https://wakatime.com/share/@Shugganait/14651cc2-697f-4d33-8fd7-31650390b2f8.svg)
+![Daniyar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shugganait&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shugganait&layout=compact&theme=radical)
 
 ---
 
