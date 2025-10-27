@@ -108,4 +108,4 @@ I am a motivated and goal-oriented **Software Engineering student** with a passi
 
 ---
 
-✨ “Striving to turn ideas into practical digital solutions and explore the possibilities of AI in software engineering.”
+✨ “”
