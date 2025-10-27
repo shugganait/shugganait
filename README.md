@@ -16,13 +16,33 @@ I am a motivated and goal-oriented **Software Engineering student** with a passi
 
 ## 🛠 Skills
 
-**Languages & Frameworks:** Kotlin, Java, XML  
-**Android Development:** Android SDK, Firebase SDK, Room, Hilt, Koin, Coroutines, ViewModel, LiveData, Flow, Navigation Component (Safe Args), Paging 3, WebView, Custom Views, Push Notifications, ViewBinding  
-**Libraries & Tools:** Glide, Coil, Picasso, Retrofit2, OkHttp3, SharedPreferences, EncryptedSharedPref, SQLite Database  
-**Architecture & Patterns:** OOP (SOLID, KISS), Clean Architecture, Single Activity Architecture, MVVM, MVP, MVC, MVI  
-**Build & Dependency Management:** Gradle (Groovy, Kotlin Scripts), BuildSrc  
-**Version Control:** GitHub, GitLab, GitFlow, Bitbucket  
-**IDE & Productivity:** Android Studio, VS Code, Visual Studio, Postman, Word, Excel, PowerPoint, Access  
+**Languages & Frameworks:**  
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![Visual Basic](https://img.shields.io/badge/Visual%20Basic-5A2D82?style=for-the-badge&logo=visual-basic&logoColor=white) 
+![XML](https://img.shields.io/badge/XML-0060AC?style=for-the-badge&logo=xml&logoColor=white)  
+
+**Android Development & Tools:**  
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white) 
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) 
+![Room](https://img.shields.io/badge/Room-FF6F00?style=for-the-badge&logo=sqlite&logoColor=white)  
+![Hilt](https://img.shields.io/badge/Hilt-795548?style=for-the-badge&logo=kotlin&logoColor=white)  
+![Koin](https://img.shields.io/badge/Koin-00897B?style=for-the-badge&logo=kotlin&logoColor=white)  
+
+**Version Control & Collaboration:**  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white) 
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)  
+
+**Other Tools & Productivity:**  
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white) 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
+![Word](https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white) 
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
+![PowerPoint](https://img.shields.io/badge/PowerPoint-D24726?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white) 
+![Access](https://img.shields.io/badge/Access-A4373B?style=for-the-badge&logo=microsoft-access&logoColor=white)  
 
 ---
 
@@ -35,11 +55,11 @@ I am a motivated and goal-oriented **Software Engineering student** with a passi
 
 ---
 
-## 📫 How to Reach Me
+## 📫 Connect with Me
 
-- Email: [your.email@example.com]  
-- LinkedIn: [your-linkedin-url]  
-- Telegram: [your-telegram-handle]
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/shugganait/)  
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23907809)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/shugganait)  
 
 ---
 
