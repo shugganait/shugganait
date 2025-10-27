@@ -103,7 +103,7 @@ I am a motivated and goal-oriented **Software Engineering student** with a passi
 
 ## 📊 Stats
 
-![Daniyar's WakaTime Stats](https://wakatime.com/share/@shugganait/shuugganait.svg)
+![Daniyar's WakaTime Stats](https://wakatime.com/share/@Shugganait/57268b1b-816a-4b6b-aa4c-517ab2783aa1.svg)
 
 ---
 
