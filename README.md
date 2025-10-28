@@ -1,6 +1,5 @@
 # Hi there 👋, I’m Daniyar Maratov
 
-I am a motivated and goal-oriented **Software Engineering student** with a passion for **Android development** and **artificial intelligence**. Currently, I am pursuing my Bachelor’s degree at Uni
 ---
 
 ## 💻 What I Do
