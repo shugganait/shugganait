@@ -63,12 +63,6 @@
 ![Gradle](https://img.shields.io/badge/Gradle-Groovy_Kotlin-795548?style=for-the-badge)  
 ![BuildSrc](https://img.shields.io/badge/BuildSrc-3DDC84?style=for-the-badge)  
 
-### Version Control & Collaboration  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)  
-![GitFlow](https://img.shields.io/badge/GitFlow-0052CC?style=for-the-badge)  
-![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)  
-
 ---
 
 ## 🌱 Learning & Interests
