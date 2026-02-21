@@ -1,4 +1,4 @@
-# Hi there 👋, I’m Daniyar Maratov
+# Hi there 👋, I’m Daniiar Maratov
 
 ---
 
